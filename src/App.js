@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Assalam o Alikum Sabir Hussain
+      Assalam o Alikum from Sabir Hussain 
     </div>
   );
 }
